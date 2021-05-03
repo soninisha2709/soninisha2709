@@ -54,10 +54,10 @@ Here are some ideas to get you started:-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soninisha2709&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Soni Nisha's Github Stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soninisha2709&theme=buefy&layout=compact" alt="languages used">
 </p>
-<!--<p align='center'>
+<p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=soninisha2709.soninisha2709" alt="visitor badge"/>
-</p>--><!-- old visitor count-->
-<p align="center"> 
+</p><!-- old visitor count-->
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/soninisha2709/count.svg" />
- </p>
+ </p>-->
