@@ -1,13 +1,13 @@
-<h1 align='center'> Hi there 👋 I'm Soni Nisha </h1>
+<h1 align='center'> Hi there 👋 I'm Soni Nisha Microsoft Developer</h1>
 
 <!--**soninisha2709/soninisha2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on "JAVASCRIPT"
-- 🌱 I’m currently learning  node.js + Express.js + handlebars + mongoose 
-- 👯 I’m looking to collaborate on live projects
-- 🤔 I’m looking for help in Chatboat  
+- 🔭 I’m currently working on "Microsoft Dynamics 365 AX"
+- 🌱 I’m currently learning "Micosoft Dynamics 365"
+- 👯 I’m looking to collaborate on Field work
+- 🤔 I’m looking for help in "AZURE"  
 - 💬 Ask me about my coding culture 
 - 📫 How to reach me: @soninisha2709
 - 😄 Call me: "SONU"
