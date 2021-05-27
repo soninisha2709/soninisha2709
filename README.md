@@ -5,7 +5,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on "Microsoft Dynamics 365 AX"
-- 🌱 I’m currently learning "Micosoft Dynamics 365"
+- 🌱 I’m currently learning "Microsoft Dynamics 365"
 - 👯 I’m looking to collaborate on Field work
 - 🤔 I’m looking for help in "AZURE"  
 - 💬 Ask me about my coding culture 
