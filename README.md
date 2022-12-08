@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Soni Nisha Microsoft Developer</h1>
+<h1 align='center'> Hi there 👋 I'm Soni Nisha Microsoft dynamics 365 finance & Operations Developer</h1>
 
 <!--**soninisha2709/soninisha2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
