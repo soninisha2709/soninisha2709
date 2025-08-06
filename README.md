@@ -7,7 +7,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on "Microsoft Dynamics 365 Finance & Operations"
 - 🌱 I’m currently learning "Microsoft Dynamics 365 F&O"
 - 👯 I’m looking to collaborate on Field work
-- 🤔 I’m looking for help in "AZURE DEVOPS"  
 - 💬 Ask me about my coding culture 
 - 📫 How to reach me: @soninisha2709
 - 😄 Call me: "Nishu"
